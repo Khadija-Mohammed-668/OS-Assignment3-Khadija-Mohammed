@@ -32,11 +32,11 @@
 
 | Field | Your Answer |
 |-------|-------------|
-| **Full Name** | [Write your full name here] |
-| **Student ID** | [Write your student ID here] |
-| **University Email** | [yourid]@std.psau.edu.sa |
-| **GitHub Username** | [your-github-username] |
-| **Repository Link** | [Paste your repository link here] |
+| **Full Name** | [Khadija Abdulhai Mohammed] |
+| **Student ID** | [446052668] |
+| **University Email** | [446052668]@std.psau.edu.sa |
+| **GitHub Username** | [Khadija-Mohammed-668] |
+| **Repository Link** | [(https://github.com/Khadija-Mohammed-668/OS-Assignment3-Khadija-Mohammed)] |
  
 ---
 
@@ -132,42 +132,42 @@
 
 ## Your Development Log
 
-### Entry 1 - [Date and Time]
-**What I did**:
+### Entry 1 - [November 3,2026, 5:00 PM]
+**What I did**:  Forked repository and uploaded it to my VS code and changed ID in line 304 to my student Id and committed it 
 
-**Details**:
+**Details**: Logged in to my gitHub account and forked the repository of the assignment, then uploaded it to my VS code and changed the 304 line to my student ID and  commited changes.
 
-**Challenges**:
+**Challenges**:NO challenges, I now know how to fork and commit changes.
 
-**Solution**:
+**Solution**:--
 
-**Time spent**:
-
----
-
-### Entry 2 - [Date and Time]
-**What I did**:
-
-**Details**:
-
-**Challenges**:
-
-**Solution**:
-
-**Time spent**:
+**Time spent**:30 minutes.
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**:
+### Entry 2 - [November 13, 2026, 10:50 PM]
+**What I did**: Added feature 1 and filled my info in MYWORK file 
 
-**Details**:
+**Details**: Added my name, ID, uni email, ripository link and githum username into MYWORK File and started working on adding feature 1 in the java file.
 
-**Challenges**:
+**Challenges**: Code didn't run emmediatly after I finished with the feature 
 
-**Solution**:
+**Solution**: Reran the code a few times until it worked 
 
-**Time spent**:
+**Time spent**: 3 hours
+
+---
+
+### Entry 3 - [November 14&15, 2026, 11:30 PM]
+**What I did**:Added feature 2 
+
+**Details**: started modefing code and adding feature 1 
+
+**Challenges**: code also didn't run emmediatly due to the old laptop I'm working on
+
+**Solution**: Reloaded java and reran the code
+
+**Time spent**: 1:30 hours
 
 ---
 
