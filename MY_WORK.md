@@ -36,13 +36,13 @@
 | **Student ID** | [446052668] |
 | **University Email** | [446052668]@std.psau.edu.sa |
 | **GitHub Username** | [Khadija-Mohammed-668] |
-| **Repository Link** | [(https://github.com/Khadija-Mohammed-668/OS-Assignment3-Khadija-Mohammed)] |
+| **Repository Link** | [https://github.com/Khadija-Mohammed-668/OS-Assignment3-Khadija-MohammedS] |
  
 ---
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: [(https://youtu.be/KCJFHD_l-gc?si=OEpYR_U_Qeij_QjO)]
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
@@ -132,81 +132,95 @@
 
 ## Your Development Log
 
-### Entry 1 - [November 3,2026, 5:00 PM]
-**What I did**:  Forked repository and uploaded it to my VS code and changed ID in line 304 to my student Id and committed it 
+### Entry 1 - [November 3, 2026, 5:00 PM ]
+**What I did**: Forked starter repository, changed line304 to my student ID and commited it
 
-**Details**: Logged in to my gitHub account and forked the repository of the assignment, then uploaded it to my VS code and changed the 304 line to my student ID and  commited changes.
+**Details**:-Logged into my github account
+-Forked starter repository
+-Uploaded it into my VS code 
+-Changed line 304 to my student ID 
+-Ran the program
+-Commited change
 
-**Challenges**:NO challenges, I now know how to fork and commit changes.
+**Challenges**:No challenges, I now know how to fork and commit changes
 
 **Solution**:--
 
-**Time spent**:30 minutes.
+**Time spent**:30 minutes
 
 ---
 
-### Entry 2 - [November 13, 2026, 10:50 PM]
-**What I did**: Added feature 1 and filled my info in MYWORK file 
+### Entry 2 - [November 13, 2026 10:50 PM]
+**What I did**: Added feature 1 and filled my info in MYWORK file
 
-**Details**: Added my name, ID, uni email, ripository link and githum username into MYWORK File and started working on adding feature 1 in the java file.
+**Details**:- Added my name, ID, uni email, repository link and github account into MYWORK file
+-Added feature 1: Protiction to readyQueue
+-Ran the code
+-Commited change
 
-**Challenges**: Code didn't run emmediatly after I finished with the feature 
+**Challenges**:Code didn't run emmediatly after feature implementation 
 
-**Solution**: Reran the code a few times until it worked 
+**Solution**: Reran the code a few times until it worked
 
-**Time spent**: 3 hours
+**Time spent**:3 hours
 
 ---
 
 ### Entry 3 - [November 14&15, 2026, 11:30 PM]
-**What I did**:Added feature 2 
+**What I did**: Added Feature 2
 
-**Details**: started modefing code and adding feature 1 
+**Details**:-Added locks for shared counters for feature 2 
+-Ran the code
+-Commited change
 
-**Challenges**: code also didn't run emmediatly due to the old laptop I'm working on
+**Challenges**:Code didn't run emmediatly due to the compiler not loading 
 
-**Solution**: Reloaded java and reran the code
+**Solution**: Reloaded the compiler and reran the code
 
-**Time spent**: 1:30 hours
-
----
-
-### Entry 4 - [Date and Time]
-**What I did**:
-
-**Details**:
-
-**Challenges**:
-
-**Solution**:
-
-**Time spent**:
+**Time spent**: 1.5 hours
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**:
+### Entry 4 - [November 15,2026 , 7:30 PM]
+**What I did**:Added Feature 3
 
-**Details**:
+**Details**:-Started replacing busy waiting blocks with counting semaphores
 
-**Challenges**:
+**Challenges**: I did't know where exactly change scope was 
 
-**Solution**:
+**Solution**: asked my friends and my AI assistant
 
-**Time spent**:
+**Time spent**:1 hour
 
 ---
 
-### Entry 6 - [Optional - Date and Time]
-**What I did**:
+### Entry 5 - [November 16, 2026, 4:30 PM]
+**What I did**: Answered MYWORK file questions
 
-**Details**:
+**Details**:- Answered Technical questions
+-Answered Reflection questions
+-Checked my work 
 
-**Challenges**:
+**Challenges**: Answers require long writing
 
-**Solution**:
+**Solution**: patience
 
-**Time spent**:
+**Time spent**: 4 hours
+
+---
+
+### Entry 6 - [November 17, 2026, 4:00 PM]
+**What I did**: Edited and uploaded video
+
+**Details**:- Captured the code and the execution 
+-Edited and voice commented the video
+-Uploeade the video  
+
+**Challenges**:No challenges
+
+**Solution**:--
+
+**Time spent**:2 hours
 
 ---
 
@@ -214,13 +228,13 @@
 
 > 💡 **TIP:** Fill this in **last**, after all entries are written.
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [11 hours]
 
-**Most challenging part**:
+**Most challenging part**: Dealing with my development environment
 
-**Most interesting learning**:
+**Most interesting learning**: How everything I learned in this course and other courses integrate my knowledge.
 
-**What I would do differently next time**:
+**What I would do differently next time**: focus and read thoroughly
 
 ---
 
@@ -240,7 +254,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I learned that an operation like count++ is not a single step, it has read modify and write, I also learned how to protect a critical section using a ReentrantLock,and why unlock() must be in a finally block, and the difference between making a thread with busy wating and using semaphores.]
 
 ## Question 2: What was the most challenging part of this assignment?
 
@@ -248,7 +262,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[The most challenging part was dealing with the coding environment, my VS code kept throwing build errors, and not running code at all due to not loading the needed extensions. ]
 
 ## Question 3: How did you overcome the challenges you faced?
 
@@ -256,7 +270,7 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I learned how to use the java command pallete to fix the environment and clean the cache and reload the workspace.]
 
 ## Question 4: Where can synchronization concepts be applied in real-world applications?
 
@@ -264,15 +278,15 @@
 
 **Your Answer:** *(5-7 sentences)*
 
-[Write your answer here.]
+[I think it can be used in softwares that require persice and secure operations and cannot tolerate mistakes like banks or shopping websites or applications.]
 
 ### Optional: What would you like to learn more about?
 
-[Any topics related to synchronization or operating systems that you're curious about?]
+[I would like to know other synchronization methods that could be implemented in this code]
 
 ### Optional: How confident do you feel about synchronization concepts now?
 
-[Beginner / Intermediate / Confident. What do you understand well? What needs more practice?]
+[Intemediate, I could use more explaining for the methods used in the code, the most interesting to me is how I can integate all the knowledge from all the courses I had]
 
 ### Optional: Feedback on the assignment
 
@@ -298,20 +312,29 @@
 
 **Your Answer:** *(3-5 sentences)*
 
-[Write your answer here.]
+[In my starter code, the code failed because multiple CPUs accessed the shared ReadyQueue and SharedStats at the same time without protiction, the problem is that poll() was not atomic, meaning that 2 CPUs can read the same head if queue resuling in an IllegalTreadStateException when trying to start a process twice, and therefore the contexSwitchCount lost track of updates, this can happen in real machines beacause the OS can preempt a thread at any machine instruction between the read and write, it is hard to detect because the time window is only a few nanoseconds long]
 
 Verification block of the **original starter**:
 ```
-[Paste the verification block (or the exception/watchdog message) of the starter here]
+[✘ At least one check failed (see the ✘ lines above): a race condition or busy waiting is still present.]
 ```
 
 Verification block of **my final version**:
 ```
-[Paste the verification block of your final version here (all lines ✔)]
+[═══ VERIFICATION (expected values are computed from YOUR seed) ═══
+  Context switches (quanta executed)     expected 22       observed 22       ✔
+  Completed processes                    expected 12       observed 12       ✔
+  Total service time (ms)                expected 33483    observed 33483    ✔
+  Busy-waiting polls (must be 0)         expected 0        observed 0        ✔
+  ✔ All shared values are consistent.]
 ```
 
 **Explanation of the timeline:**
-[Explain the lost update step by step.]
+[1:CPU-1 calls incrementContextSwitch() and reads contextSwitchCount as 6
+2:CPU-1 hits RaceWindow.pause() and temporarily pause by OS
+3:CPU-2 calls incrementContextSwitch()and reads contextSwitchCount as 6 too
+4:CPU-2 writes 7 back to the variable
+5:CPU-1 wakes up and also writes 7 back to the variable, and therefore one increment is completely lost]
 
 ## Question 2: Critical Sections and Lock Granularity
 
@@ -321,12 +344,13 @@ Verification block of **my final version**:
 
 **Your Answer:** *(3-5 sentences)*
 
-[Write your answer here.]
+[I used a single ReentrantLock named statsLock to protect the tgree shared statistics, including both the update methods and the getters, I chose one lock for all three statistics because the contention in this simulation can be ignored with only 3 CPUs, and using one lock keeps the system in safe state and the code simple. But the tradeoff is a coarser granularity meaning that a thread reading the completed count briefly blocks a thread adding service time, but it isn't that big of a problem. The ready queue uses a different lock(queueLock)because the queue and the statistics are comletly independent, if they share a lock a CPU holding the queue lock while updating statistics would unnecessarily block other CPUs from doing any task. My sulotion provides mutual exclusion because only one thread can hold a lock at a time, it provides progress because locks are always released in a try and finally block, so even if an exception occurs it wouldn't affect the progress, but because a ReentrantLock is not fair, a thread could starve if others kee overtaking it, meaning thereis no strict bounded waiting guarentee, but as the critical sections are too short for starvation they won't occur ]
 
 | Critical section (variable / method) | Lock used | Why it needs protection |
 |---|---|---|
 | [e.g., `ReadyQueue.poll()`] | [lock name] | [reason] |
-| [...] | [...] | [...] |
+| [ReadyQueue(list and map)] | [queueLock] | [To prevent multiple CPUs from reading or removing the same process or corrupting the LinkedList] |
+| [SharedSrars (counters)] | [statsLock] | [To prevent lost updates during read-modify-write operations] |
 
 ## Question 3: Busy Waiting vs Semaphore
 
@@ -336,7 +360,7 @@ Verification block of **my final version**:
 
 **Your Answer:** *(3-5 sentences)*
 
-[Write your answer here.]
+[In the starter code, when the queue was empty, a CPU would sleep for 20ms and wake up to poll the queue again in a while loop, incrementing the busyWaitPolls counter, this is busu waiting or polling because the thread is repeatedly checking  condition and wasting CPU cycles, in my final version I replaced this weth a counting semaphore named available, the value of the semaphoe represents the nube of processes currently waiting in the ready queue, its initial value is 0 because the queue starts empty, and after the 16 initial add()calls in main, its value becomes 16, the semaphore blocks a CPU usin acquire(),meaning it sleeps without consuming CPU time until a process is available, when the last process finishes the completing CPU calls release(SharedStats.totalCPUs) to wakeup all other CPUs blocked in acquire(), if it didn't do this the CPUs would wait forever for a process that will never arrive causing a deadlock and forcing the watchdog to terminate the program .] 
 
 ## Question 4: Classical Problems and Deadlock
 
@@ -347,24 +371,26 @@ Verification block of **my final version**:
 **Your Answer:** *(3-5 sentences)*
 
 **Classical problem and roles**:
-[Name the problem; who is the producer, who is the consumer?]
+[Producer-Consumer, Producers: main and CPUs reenqueuing processes, Consumers: CPUs taking processes]
 
 **Semaphores for a bounded queue (name and initial value)**:
-[Name the three semaphores and their initial values.]
+[1-empty(counts free slots,initial =K)
+2-full(counts available processes , initial =0)
+3- mutex(binary lock for the queue, initial =1)]
 
 **Deadlock scenario and prevention**:
-[Describe the scenario and the necessary condition you would break.]
+[If a producer acquires mutex first and then waits on empty, it will block while holding the lock, the consumer cannot empty the buffer because it is blocked waiting for the mutex , this creats a deadlock, we break the hold and wait condition by acquiring the semaphores(empty or full) before acquiring the mutex]
 
 ## Summary
 
 **Key concepts I understood through these questions:**
-1.
-2.
-3.
+1.Race conditions: I learned that operations like count++ are not a single step operation.
+2.Mutual Exclusion: I understand how to use a reentrantLock to create a critical section and locking it.
+3.Semaphores and busywaiting: I learned how a counting semaphore replaces a wastefull loop.
 
 **Concepts I need to study more:**
-1.
-2.
+1. I want to learn more about how fair locks work
+2. I want to know what other synchronization tools can look like in code
 
 ---
 
@@ -373,38 +399,38 @@ Verification block of **my final version**:
 > ⚠️ **WARNING:** Go through every line. Blackboard does not accept submissions after the deadline, which is **November 14, 2026**.
 
 **Repository**
-- [ ] Repository is **PUBLIC** (Settings → Danger Zone → Visibility)
-- [ ] Repository is renamed to `OS-Assignment3-YourFirstName-YourLastName`
-- [ ] GitHub account uses the university email (`@std.psau.edu.sa`)
+- [✔] Repository is **PUBLIC** (Settings → Danger Zone → Visibility)
+- [✔] Repository is renamed to `OS-Assignment3-YourFirstName-YourLastName`
+- [✔] GitHub account uses the university email (`@std.psau.edu.sa`)
 
 **Code**
-- [ ] Student ID is set in `SchedulerSimulationSync.java` (line 304)
-- [ ] My code is based **only** on the starter of this repository (nothing copied from previous assignments)
-- [ ] Code compiles and runs with no errors, and terminates by itself (no `⛔ WATCHDOG`)
-- [ ] Feature 1 (ready queue lock), Feature 2 (statistics locks) and Feature 3 (semaphore, no busy waiting) all work
-- [ ] **The four verification lines are ✔ in 5 consecutive runs**
-- [ ] Every lock is released in a `finally` block
-- [ ] `RaceWindow`, `Config`, the verification block and the watchdog are **unchanged**
-- [ ] Each feature has clear comments
+- [✔] Student ID is set in `SchedulerSimulationSync.java` (line 304)
+- [✔] My code is based **only** on the starter of this repository (nothing copied from previous assignments)
+- [✔] Code compiles and runs with no errors, and terminates by itself (no `⛔ WATCHDOG`)
+- [✔] Feature 1 (ready queue lock), Feature 2 (statistics locks) and Feature 3 (semaphore, no busy waiting) all work
+- [✔] **The four verification lines are ✔ in 5 consecutive runs**
+- [✔] Every lock is released in a `finally` block
+- [✔] `RaceWindow`, `Config`, the verification block and the watchdog are **unchanged**
+- [✔] Each feature has clear comments
 
 **Commits**
-- [ ] **At least 4 meaningful commits, ideally 7 or more**
-- [ ] **One commit per feature**
-- [ ] Commits are spread over **different dates** (not all in the last hour)
-- [ ] Everything is **pushed** to GitHub
+- [✔] **At least 4 meaningful commits, ideally 7 or more**
+- [✔] **One commit per feature**
+- [✔] Commits are spread over **different dates** (not all in the last hour)
+- [✔] Everything is **pushed** to GitHub
 
 **This file (`MY_WORK.md`)**
-- [ ] Full name and student ID filled in at the top
-- [ ] Development log has **5+ entries** on different dates
-- [ ] Reflection: 4 questions, 5-7 sentences each
-- [ ] Technical answers: 4 questions, 3-5 sentences each, with examples from **your** output (starter output **and** final output pasted in Question 1)
-- [ ] No `[...]` placeholders left
-- [ ] No section headers deleted
+- [✔] Full name and student ID filled in at the top
+- [✔] Development log has **5+ entries** on different dates
+- [✔] Reflection: 4 questions, 5-7 sentences each
+- [✔] Technical answers: 4 questions, 3-5 sentences each, with examples from **your** output (starter output **and** final output pasted in Question 1)
+- [✔] No `[...]` placeholders left
+- [✔] No section headers deleted
 
 **Video**
-- [ ] 2-3 minutes long, named `StudentID_Assignment3_Demo.mp4`
-- [ ] Shows your name, ID, repository, 3 features (and your lock granularity choice), IDE execution with the verification block, one synchronization concept, and commit history
-- [ ] Link is **public** (tested in an incognito window) and pasted in the **Video Link** section above
+- [✔] 2-3 minutes long, named `StudentID_Assignment3_Demo.mp4`
+- [✔] Shows your name, ID, repository, 3 features (and your lock granularity choice), IDE execution with the verification block, one synchronization concept, and commit history
+- [✔] Link is **public** (tested in an incognito window) and pasted in the **Video Link** section above
 
 **Blackboard**
 - [ ] Submit **only** the link to your public GitHub repository
